@@ -10,7 +10,8 @@
 
 ---
 
-📊 **Áreas de interesse:** Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Dashboards
+📊 **Áreas de interesse:** 
+Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Dashboards
 
 ---
 
@@ -20,7 +21,7 @@
 * SQL | MySQL | SQLite
 * Git | Github
 * Jupyter Notebook
-* VSVode</h4>
+* VSCode</h4>
 
 ###
 
