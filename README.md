@@ -16,9 +16,9 @@ Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning
 ---
 
 **Principais Ferramentas:**
-* Python | Pandas | Numpy | Matplotlib | Seaborn | Sklearn
+* Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn
 * Power BI | Dashboards 
-* SQL | MySQL | SQLite
+* SQL | MySQL | SQLite 
 * Git | Github
 * Jupyter Notebook
 * VSCode</h4>
