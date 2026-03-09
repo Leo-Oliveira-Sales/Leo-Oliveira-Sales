@@ -6,11 +6,10 @@
 
 ###
 
-<h3 align="left"> Graduado em Ciência de Dados, com diversos projetos de Análise de Dados, Business Intelligence e Ciência de Dados.
+<h3 align="left"> Graduado em Ciência de Dados. Venho me dedicando continuamente ao aperfeiçoamento na construção de modelos de Machine Learning, buscando aplicar técnicas de análise preditiva para resolver problemas reais.
   
-Possuo experiência prática na criação de dashboards e análises utilizando Power BI, além de conhecimentos em SQL para manipulação e consulta de dados. 
+Possuo experiência prática em Limpeza e Tratamento de Dados com Python, criação de dashboards e análises utilizando Power BI, além de conhecimentos em SQL para manipulação e consulta de dados. 
 
-Venho me dedicando continuamente ao aperfeiçoamento na construção de modelos de Machine Learning, buscando aplicar técnicas de análise preditiva para resolver problemas reais.
 🚀 Estou sempre em busca de evoluir tecnicamente, desenvolver novos projetos e aplicar soluções baseadas em dados que possam gerar valor</h3>
 
 ###
