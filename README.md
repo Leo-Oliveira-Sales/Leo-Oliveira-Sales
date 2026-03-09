@@ -6,9 +6,9 @@
 
 ###
 
-<h3 align="left"> Graduado em Ciência de Dados. Venho me dedicando continuamente ao aprendizado e aperfeiçoamento na construção de modelos de Machine Learning em Python. Possuo conhecimentos sólidos em Manipulação de Dados com python; SQL para Análise e Consulta de Dados; Criação de Dashboards e análises com Power BI
+<h3 align="left"> Graduado em Ciência de Dados. Venho me dedicando continuamente ao aprendizado de técnicas de Manipulação de Dados com Python e Aperfeiçoamento na construção de modelos de Machine Learning. Possuo conhecimentos sólidos em SQL para Análise e Consulta de Dados; e Power BI na Criação de Dashboards e análises.
 
-📊 Áreas de interesse: Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Visualização</h3>
+📊 Áreas de interesse: Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Dashboards</h3>
 
 ###
 
