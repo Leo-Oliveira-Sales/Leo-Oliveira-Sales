@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Ciência de dados | Análise de Dados | business intelligence | Machine Learning | Power BI | Dashboards | MySQL</h3>
+<h3 align="left">Graduado em Ciência de dados | Possuo Diversos Projetos de Análise, BI e Ciência de Dados| Estou Buscando me Aperfeiçoar na Construção de Modelos de Machine Learning | Possuo Conhecimentos em SQL | Power BI | Dashboards</h3>
 
 ###
 
