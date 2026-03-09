@@ -10,7 +10,17 @@
 
 ---
 
-📊 Áreas de interesse: Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Dashboards</h4>
+📊 **Áreas de interesse:** Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Dashboards
+
+---
+
+**Principais Ferramentas:**
+* Python | Pandas | Numpy | Matplotlib | Seaborn | Sklearn
+* Power BI | Dashboards 
+* SQL | MySQL | SQLite
+* Git | Github
+* Jupyter Notebook
+* VSVode</h4>
 
 ###
 
