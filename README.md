@@ -10,7 +10,7 @@
 
 ---
 
-📊 **Áreas de interesse:** 
+📊  **Áreas de interesse:** 
 Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Dashboards
 
 ---
