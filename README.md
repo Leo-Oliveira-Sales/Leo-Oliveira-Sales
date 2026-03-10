@@ -6,9 +6,34 @@
 
 ###
 
-<h3 align="left">_____________________________<br>🧾 Sobre:<br><br>Graduado em Ciência de Dados, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com Python e me aperfeiçoando na construção de Modelos de Machine Learning. Possuo conhecimentos sólidos em SQL para Análise e Consulta de Dados; e Power BI na Criação de Dashboards e Análises.<br><br>_____________________________<br>📊 Áreas de interesse: <br><br>Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Dashboards<br><br>______________________________<br>⚙️ Principais Ferramentas:<br><br>Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn<br>Power BI | Dashboards<br>SQL | MySQL | SQLite<br>Git | Github<br>Jupyter Notebook<br>VSCode</h3>
+<h3 align="left">____________________________<br>🧾 Sobre:<br><br>Graduado em Ciência de Dados, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com Python e me aperfeiçoando na construção de Modelos de Machine Learning. Possuo conhecimentos sólidos em SQL para Análise e Consulta de Dados; e Power BI na Criação de Dashboards e Análises.<br><br>_____________________________<br>📊 Áreas de interesse: <br><br>Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Dashboards<br><br>______________________________<br>⚙️ Principais Ferramentas:<br><br>Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn<br>Power BI | Dashboards<br>SQL | MySQL | SQLite<br>Git | Github<br>Jupyter Notebook<br>VSCode</h3>
 
----
+###
+
+<h3 align="left">______________________________<br>📌 Contatos:</h3>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/sales-leo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="85996606707" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="leo.sales.br@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
 ###
 
 <div align="center">
@@ -45,32 +70,6 @@
   <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="60" alt="kaggle logo"  />
-</div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="left">📌 Contatos:</h3>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/sales-leo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="85996606707" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="leo.sales.br@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
