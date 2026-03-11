@@ -9,7 +9,7 @@
 <h4 align="left">_____________________________<br>🧾 Sobre:<br><br>Graduado em Ciência de Dados, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com Python e me aperfeiçoando na construção de Modelos de Machine Learning. Possuo conhecimentos sólidos em SQL para Análise e Consulta de Dados; e Power BI na Criação de Dashboards e Análises.<br><br>_____________________________<br>📊 Áreas de interesse: <br><br>Ciência de Dados | Machine Learning |Análise de Dados | Business Intelligence | Python | Dashboards<br><br>_____________________________<br>⚙️ Principais Ferramentas:<br><br>Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn<br>Power BI | Dashboards<br>SQL | MySQL | SQLite<br>Git | Github<br>Jupyter Notebook<br>VSCode<br><br>_____________________________<br>📌 Contatos:</h4>
 
 ###
-
+---
 <div align="left">
   <a href="www.linkedin.com/in/sales-leo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
