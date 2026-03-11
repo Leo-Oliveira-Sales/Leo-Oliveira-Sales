@@ -6,11 +6,7 @@
 
 ###
 
-<h3 align="left">____________________________<br>🧾 Sobre:<br><br>Graduado em Ciência de Dados, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com Python e me aperfeiçoando na construção de Modelos de Machine Learning. Possuo conhecimentos sólidos em SQL para Análise e Consulta de Dados; e Power BI na Criação de Dashboards e Análises.<br><br>_____________________________<br>📊 Áreas de interesse: <br><br>Ciência de Dados | Análise de Dados | Business Intelligence | Machine Learning | Python | Dashboards<br><br>______________________________<br>⚙️ Principais Ferramentas:<br><br>Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn<br>Power BI | Dashboards<br>SQL | MySQL | SQLite<br>Git | Github<br>Jupyter Notebook<br>VSCode</h3>
-
-###
-
-<h3 align="left">______________________________<br>📌 Contatos:</h3>
+<h4 align="left">_____________________________<br>🧾 Sobre:<br><br>Graduado em Ciência de Dados, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com Python e me aperfeiçoando na construção de Modelos de Machine Learning. Possuo conhecimentos sólidos em SQL para Análise e Consulta de Dados; e Power BI na Criação de Dashboards e Análises.<br><br>_____________________________<br>📊 Áreas de interesse: <br><br>Ciência de Dados | Machine Learning |Análise de Dados | Business Intelligence | Python | Dashboards<br><br>_____________________________<br>⚙️ Principais Ferramentas:<br><br>Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn<br>Power BI | Dashboards<br>SQL | MySQL | SQLite<br>Git | Github<br>Jupyter Notebook<br>VSCode<br><br>_____________________________<br>📌 Contatos:</h4>
 
 ###
 
@@ -27,7 +23,7 @@
 </div>
 
 ###
----
+
 <p align="left"></p>
 
 ###
@@ -39,7 +35,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="60" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
   <img width="12" />
@@ -47,9 +43,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
   <img width="12" />
@@ -64,10 +62,6 @@
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="60" alt="kaggle logo"  />
 </div>
