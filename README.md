@@ -1,6 +1,6 @@
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C8A2C8&width=450&lines=Seja,+bem+-+vindo(a)!;Sou+o+Léo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C8A2C8&width=450&lines=Seja,+bem+-+vindo(a)!;Eu+sou+o+Léo)](https://git.io/typing-svg)
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=90&section=header&reversal=true&text=Ol%C3%A1,%20eu%20sou%20o%20L%C3%A9o!%20%F0%9F%91%8B&fontSize=50&fontColor=10B981&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
