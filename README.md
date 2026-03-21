@@ -1,6 +1,10 @@
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=C8A2C8&width=450&lines=Seja,+bem+-+vindo(a)!;Eu+sou+o+Léo)](https://git.io/typing-svg)
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=10B981&size=35&width=600&lines=Seja+bem+vindo(a)!;Sou+a+Kalolayna;Analista+de+Dados)](https://git.io/typing-svg)
+
+</p>
 
 ###
 
