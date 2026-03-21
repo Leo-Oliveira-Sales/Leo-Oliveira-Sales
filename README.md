@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=10B981&size=30&width=600&lines=Seja+bem+vindo(a)!;Eu+sou+o+Léo)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <h4 align="left">_____________________________<br>🧾 Sobre:<br><br>Graduado em Ciência de Dados, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com Python e me aperfeiçoando na construção de Modelos de Machine Learning. Possuo conhecimentos sólidos em SQL para Análise e Consulta de Dados; e Power BI na Criação de Dashboards e Análises.<br><br>_____________________________<br>📊 Áreas de interesse: <br><br>Ciência de Dados | Machine Learning |Análise de Dados | Business Intelligence | Python | Dashboards<br><br>_____________________________<br>⚙️ Principais Ferramentas:<br><br>Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn<br>Power BI | Dashboards<br>SQL | MySQL | SQLite<br>Git | Github<br>Jupyter Notebook<br>VSCode<br><br>_____________________________<br>📌 Contatos:</h4>
