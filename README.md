@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">_____________________________<br>🧾 Sobre:<br><br>Graduado em Ciência de Dados, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com Python e me aperfeiçoando na construção de Modelos de Machine Learning. Possuo conhecimentos sólidos em SQL para Análise e Consulta de Dados; e Power BI na Criação de Dashboards e Análises.<br><br>_____________________________<br>📊 Áreas de interesse: <br><br>Ciência de Dados | Machine Learning |Análise de Dados | Business Intelligence | Python | Dashboards<br><br>_____________________________<br>⚙️ Ferramentas e Linguagens:<br><br>Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn<br>Power BI | Dashboards<br>SQL | MySQL | SQLite<br>Git | Github<br>Jupyter Notebook<br>VSCode<br><br>_____________________________<br>📌 Contatos:</h4>
+<h4 align="left">_____________________________<br>🧾 Sobre:<br><br>Graduando em Ciência de Dados, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com Python e me aperfeiçoando na construção de Modelos de Machine Learning. Possuo conhecimentos sólidos em SQL para Análise e Consulta de Dados; e Power BI na Criação de Dashboards e Análises.<br><br>_____________________________<br>📊 Áreas de interesse: <br><br>Ciência de Dados | Machine Learning |Análise de Dados | Business Intelligence | Python | Dashboards<br><br>_____________________________<br>⚙️ Ferramentas e Linguagens:<br><br>Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn<br>Power BI | Dashboards<br>SQL | MySQL | SQLite<br>Git | Github<br>Jupyter Notebook<br>VSCode<br><br>_____________________________<br>📌 Contatos:</h4>
 
 ###
 
