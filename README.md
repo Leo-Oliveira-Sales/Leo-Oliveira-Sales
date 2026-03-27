@@ -62,8 +62,8 @@
 
 ###
 
-  [![Leo-Oliveira-Sales](https://github-readme-stats.vercel.app/api?username=Leo-Oliveira-Sales&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Leo-Oliveira-Sales](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Oliveira-Sales&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
