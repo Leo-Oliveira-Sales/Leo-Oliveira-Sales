@@ -6,9 +6,7 @@
 
 ## 👨‍💻 **`Sobre`**
 
-Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com **Python** e me aperfeiçoando na construção de Modelos de **Machine Learning.** 
-
-Possuo conhecimentos sólidos em **SQL** para Analise de Dados; e **Power BI** para **Business Intelligence**.
+Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com **Python** e me aperfeiçoando na construção de Modelos de **Machine Learning.** Possuo conhecimentos sólidos em **SQL** para Analise de Dados; e **Power BI** para **Business Intelligence**.
 
 
 ## 📈 **`Áreas de Interesse`**
@@ -82,6 +80,7 @@ Possuo conhecimentos sólidos em **SQL** para Analise de Dados; e **Power BI** p
 
 ###
 
+![Portfolio](https://img.shields.io/badge/Portfólio-4CAF50?style=for-the-badge)
 
 ![Data Science](https://img.shields.io/badge/Ciência%20de%20Dados-1f77b4?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff7f0e?style=for-the-badge)
