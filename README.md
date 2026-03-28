@@ -6,7 +6,7 @@
 
 ## 👨‍💻 **`Sobre`**
 
-Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com **Python** e me aperfeiçoando na construção de Modelos de **Machine Learning.** Possuo conhecimentos sólidos em **SQL** para Analise de Dados; e **Power BI** para **Business Intelligence**.
+Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com **Python**, e me aperfeiçoando na construção de Modelos de **Machine Learning.** Possuo conhecimentos sólidos em **SQL** para Analise de Dados; e **Power BI** para **Business Intelligence**.
 
 
 ## 📈 **`Áreas de Interesse`**
@@ -80,13 +80,12 @@ Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendiz
 
 ###
 
-![Portfolio](https://img.shields.io/badge/Portfólio-4CAF50?style=for-the-badge)
+![Portfolios:](https://img.shields.io/badge/Portfólios:-4CAF50?style=for-the-badge)
 
 ![Data Science](https://img.shields.io/badge/Ciência%20de%20Dados-1f77b4?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff7f0e?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Análise%20de%20Dados-2ca02c?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-9467bd?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dashboards](https://img.shields.io/badge/Dashboards-17becf?style=for-the-badge)
+
 
 ---
