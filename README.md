@@ -1,6 +1,21 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+     alt="ilustração de um computador"
+     width="100px"
+     align="right">
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=10B981&size=35&width=600&lines=Seja+bem+vindo(a)!;Eu+sou+o+Léo">
+</a>
+
+</div>
+
+</div>
+
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=10B981&size=30&width=600&lines=Seja+bem+vindo(a)!;Eu+sou+o+Léo)](https://git.io/typing-svg)
+---
 
 ###
 
