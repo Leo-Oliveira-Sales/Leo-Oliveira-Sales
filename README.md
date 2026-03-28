@@ -89,6 +89,6 @@ Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendiz
 
 [![Data Science](https://img.shields.io/badge/Ciência%20de%20Dados-1f77b4?style=for-the-badge)]([LINK_DA_PASTA](https://github.com/Leo-Oliveira-Sales/Portifolio-Machine-Learning))
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff7f0e?style=for-the-badge)](https://github.com/Leo-Oliveira-Sales/Portifolio-Machine-Learning)
-[![Data Analysis](https://img.shields.io/badge/Análise%20de%20Dados-2ca02c?style=for-the-badge)](LINK_DA_PASTA)
+[![Data Analysis](https://img.shields.io/badge/Análise%20de%20Dados-2ca02c?style=for-the-badge)](https://github.com/Leo-Oliveira-Sales/Portifolio-Analista-de-Dados)
 [![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-9467bd?style=for-the-badge)](LINK_DA_PASTA)
 ---
