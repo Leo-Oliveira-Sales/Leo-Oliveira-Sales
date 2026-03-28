@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
      alt="ilustração de um computador"
-     width="100px"
+     width="150px"
      align="right">
 
 <div align="center">
