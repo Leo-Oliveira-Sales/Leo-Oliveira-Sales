@@ -87,5 +87,11 @@ Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendiz
 ![Data Analysis](https://img.shields.io/badge/Análise%20de%20Dados-2ca02c?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-9467bd?style=for-the-badge)
 
+[![Data Science](https://img.shields.io/badge/Ciência%20de%20Dados-1f77b4?style=for-the-badge)](LINK_DA_PASTA)
 
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff7f0e?style=for-the-badge)](LINK_DA_PASTA)
+
+[![Data Analysis](https://img.shields.io/badge/Análise%20de%20Dados-2ca02c?style=for-the-badge)](LINK_DA_PASTA)
+
+[![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-9467bd?style=for-the-badge)](LINK_DA_PASTA)
 ---
