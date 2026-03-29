@@ -3,17 +3,18 @@
      alt="ilustração de um computador"
      width="150px"
      align="right">
+     
+<br>
 
-<div align="center">
+<div style="text-align: center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=10B981&size=35&width=600&lines=Seja+bem+vindo(a)!;Eu+sou+o+Léo">
+  <img src="https://readme-typing-svg.herokuapp.com?color=10B981&size=37&width=700&&Height=70&lines=Seja+bem+vindo(a)!;Eu+sou+o+Léo">
 </a>
 
 </div>
 
 <br clear="both">
-
 
 
 ###
