@@ -4,7 +4,6 @@
      width="150px"
      align="right">
      
-<br>
 
 <div style="text-align: center">
 
