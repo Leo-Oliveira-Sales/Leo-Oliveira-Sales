@@ -1,10 +1,11 @@
-<br>
+<br><br>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
      alt="ilustração de um computador"
      width="150px"
      align="right">
+
      
-<br>
 <div style="text-align: center">
 
 <a href="https://git.io/typing-svg">
