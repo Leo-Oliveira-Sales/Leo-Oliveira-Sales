@@ -1,9 +1,8 @@
 <br>
 
-<div style="text-align: center">
+<div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=10B981&size=37&width=700&&Height=70&lines=Seja+bem+vindo(a)!;Eu+sou+o+Léo">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0BBD0E&vCenter=true&random=true&width=600&height=70&lines=Seja+bem+vindo(a)!;Eu+sou+o+L%C3%A9o!" alt="Typing SVG"/>
 </a>
 
 </div>
