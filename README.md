@@ -7,8 +7,6 @@
 
 </div>
 
-<br>
-
 
 ###
 
@@ -36,6 +34,7 @@ Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendiz
 </div>
 
 ###
+
 
 ## ⚙️ **`Tecnologias & Ferramentas`**
 
@@ -87,6 +86,8 @@ Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendiz
 </div>
 
 ###
+
+<br>
 
 ## **`Portfólios:`**
 
