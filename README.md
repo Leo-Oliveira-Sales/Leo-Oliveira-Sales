@@ -76,6 +76,8 @@ Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendiz
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="60" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/scikitlearn" height="60" alt="sklearn logo" />
 </div>
 
 ###
