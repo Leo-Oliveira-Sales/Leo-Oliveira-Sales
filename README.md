@@ -78,6 +78,10 @@ Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendiz
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="60" alt="kaggle logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/scikitlearn" height="60" alt="sklearn logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60" alt="seaborn logo" />
 </div>
 
 ###
