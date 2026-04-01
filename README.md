@@ -82,6 +82,8 @@ Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendiz
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60" alt="matplotlib logo" />
   <img width="12" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60" alt="seaborn logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60" alt="powerbi logo" />
 </div>
 
 ###
