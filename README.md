@@ -12,7 +12,7 @@
 
 ## 👨‍💻 **`Sobre`**
 
-Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com **Python**, e me aperfeiçoando na construção de Modelos de **Machine Learning.** Possuo conhecimentos sólidos em **SQL** para Analise de Dados; e **Power BI** para **Business Intelligence**.
+Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com **Python**, e me aperfeiçoando na construção de Modelos de **Machine Learning.** Possuo conhecimentos sólidos em **SQL** para Analise de Dados; e **Power BI**.
 
 
 ## 📈 **`Áreas de Interesse`**
