@@ -17,7 +17,7 @@ Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendiz
 
 ## 📈 **`Áreas de Interesse`**
 
-**Ciência de Dados • Machine Learning • Análise de Dados • Python**
+**Ciência de Dados • Machine Learning • Análise de Dados • Python • Django**
 
 
 ## 📌 **`Contatos:`**
