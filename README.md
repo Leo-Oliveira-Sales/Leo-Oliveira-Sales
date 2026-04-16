@@ -101,7 +101,7 @@ Graduando em **Ciência de Dados**, com experiência em Análise Exploratória d
 
 [![Data Science](https://img.shields.io/badge/Ciência%20de%20Dados-1f77b4?style=for-the-badge)](https://github.com/Leo-Oliveira-Sales/Portifolio-Machine-Learning)
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff7f0e?style=for-the-badge)](https://github.com/Leo-Oliveira-Sales/Portifolio-Machine-Learning)
-[![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-2ca02c?style=for-the-badge)](https://github.com/Leo-Oliveira-Sales/Portifolio-Analista-de-Dados)
+[![Data Processing](https://img.shields.io/badge/Data%20Processing-2ca02c?style=for-the-badge)](https://github.com/Leo-Oliveira-Sales/Portifolio-Analista-de-Dados)
 [![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-6f42c1?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/Leo-Oliveira-Sales/Portifolio-BI-Vizualizacoes)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](LINK-URL)
 ---
