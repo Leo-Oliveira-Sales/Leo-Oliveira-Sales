@@ -12,12 +12,11 @@
 
 ## 👨‍💻 **`Sobre`**
 
-Graduando em **Ciência de Dados**, venho me dedicando continuamente ao aprendizado de técnicas de Análise e Manipulação de Dados com **Python**, e me aperfeiçoando na construção de Modelos de **Machine Learning.** Possuo conhecimentos sólidos em **SQL** para Analise de Dados; e **Power BI**.
-
+Graduando em **Ciência de Dados**, com experiência em Análise Exploratória de Dados (EDA), Pré-processamento e Engenharia de Atributos com **Python**. Possuo experiência em construção de modelos de **Machine Learning**, além de sólidos conhecimentos em **SQL** para análise de dados e desenvolvimento de dashboards no **Power BI.**
 
 ## 📈 **`Áreas de Interesse`**
 
-**Ciência de Dados • Machine Learning • Análise de Dados • Python • Django**
+**Machine Learning • Análise de Dados • Python • Django**
 
 
 ## 📌 **`Contatos:`**
