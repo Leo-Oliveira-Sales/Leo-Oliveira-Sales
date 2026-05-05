@@ -103,5 +103,5 @@ Graduando em **Ciência de Dados**, com experiência em Análise Exploratória d
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff7f0e?style=for-the-badge)](https://github.com/Leo-Oliveira-Sales/Portifolio-Machine-Learning)
 [![Data Processing](https://img.shields.io/badge/Data%20Processing-2ca02c?style=for-the-badge)](https://github.com/Leo-Oliveira-Sales/Portifolio-Analista-de-Dados)
 [![Análise de Dados](https://img.shields.io/badge/Análise%20de%20Dados-6f42c1?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/Leo-Oliveira-Sales/Portifolio-BI-Vizualizacoes)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](LINK-URL)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Leo-Oliveira-Sales/API-Django-Rest-Biblioteca-de-Filmes)
 ---
