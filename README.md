@@ -16,7 +16,7 @@ Graduando em **Ciência de Dados**, com experiência em Análise Exploratória d
 
 ## 📈 **`Áreas de Interesse`**
 
-**Machine Learning • Análise de Dados • Python • Django**
+**Machine Learning • Análise de Dados • Python**
 
 
 ## 📌 **`Contatos:`**
