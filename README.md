@@ -12,7 +12,7 @@
 
 ## 👨‍💻 **`Sobre`**
 
-Graduando em **Ciência de Dados**, com experiência em Análise Exploratória de Dados (EDA), Pré-processamento e Engenharia de Atributos com **Python**. Possuo experiência em construção de modelos de **Machine Learning**, além de sólidos conhecimentos em **SQL** para análise de dados e desenvolvimento de dashboards no **Power BI.**
+Graduando em **Ciência de Dados**, com experiência em Análise Exploratória de Dados (EDA), Pré-processamento e Engenharia de Atributos com **Python**. Possuo experiência em construção de modelos de **Machine Learning**, além de sólidos conhecimentos em **SQL** para análise de dados e conhecimento de desenvolvimento de dashboards no **Power BI.**
 
 ## 📈 **`Áreas de Interesse`**
 
